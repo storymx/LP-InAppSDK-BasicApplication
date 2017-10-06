@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/gperez/.android/build-cache/ef1b13d4ecca150e83081e7b09d011e8b637f521/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/gperez/.android/build-cache/ef1b13d4ecca150e83081e7b09d011e8b637f521/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/gperez/.android/build-cache/ef1b13d4ecca150e83081e7b09d011e8b637f521/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/gperez/.android/build-cache/ef1b13d4ecca150e83081e7b09d011e8b637f521/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/gperez/.android/build-cache/ef1b13d4ecca150e83081e7b09d011e8b637f521/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/gperez/.android/build-cache/ef1b13d4ecca150e83081e7b09d011e8b637f521/output/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]

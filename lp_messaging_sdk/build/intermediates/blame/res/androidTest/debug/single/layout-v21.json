@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/gperez/.android/build-cache/ef1b13d4ecca150e83081e7b09d011e8b637f521/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/gperez/.android/build-cache/ef1b13d4ecca150e83081e7b09d011e8b637f521/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action.xml",
+        "source": "/Users/gperez/.android/build-cache/ef1b13d4ecca150e83081e7b09d011e8b637f521/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/gperez/.android/build-cache/ef1b13d4ecca150e83081e7b09d011e8b637f521/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

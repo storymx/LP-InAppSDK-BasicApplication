@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/release/anim/design_fab_out.xml",
+        "source": "/Users/gperez/.android/build-cache/9171d4dbe805b02733e9938fc68885ffc49fe62f/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/gperez/.android/build-cache/ef1b13d4ecca150e83081e7b09d011e8b637f521/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/release/anim/design_fab_in.xml",
+        "source": "/Users/gperez/.android/build-cache/9171d4dbe805b02733e9938fc68885ffc49fe62f/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/gperez/.android/build-cache/ef1b13d4ecca150e83081e7b09d011e8b637f521/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/gperez/.android/build-cache/9171d4dbe805b02733e9938fc68885ffc49fe62f/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/gperez/.android/build-cache/ef1b13d4ecca150e83081e7b09d011e8b637f521/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/gperez/.android/build-cache/ef1b13d4ecca150e83081e7b09d011e8b637f521/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/gperez/.android/build-cache/ef1b13d4ecca150e83081e7b09d011e8b637f521/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/release/anim/menu_icon_amination_out.xml",
+        "source": "/Users/gperez/.android/build-cache/db53ce7e8cf9bb7eb022f3722c436b95e0397329/output/res/anim/menu_icon_amination_out.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/gperez/.android/build-cache/ef1b13d4ecca150e83081e7b09d011e8b637f521/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/gperez/.android/build-cache/ef1b13d4ecca150e83081e7b09d011e8b637f521/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/gperez/.android/build-cache/9171d4dbe805b02733e9938fc68885ffc49fe62f/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/release/anim/lpmessaging_ui_right_left_bounce.xml",
+        "source": "/Users/gperez/.android/build-cache/9e318ff3faca6c2e65d8ccfd5d81f0991534503b/output/res/anim/lpmessaging_ui_right_left_bounce.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/release/anim/menu_icon_amination_in.xml",
+        "source": "/Users/gperez/.android/build-cache/db53ce7e8cf9bb7eb022f3722c436b95e0397329/output/res/anim/menu_icon_amination_in.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/release/anim/lpmessaging_ui_slide_out.xml",
+        "source": "/Users/gperez/.android/build-cache/9e318ff3faca6c2e65d8ccfd5d81f0991534503b/output/res/anim/lpmessaging_ui_slide_out.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/release/anim/lpmessaging_ui_pulse.xml",
+        "source": "/Users/gperez/.android/build-cache/9e318ff3faca6c2e65d8ccfd5d81f0991534503b/output/res/anim/lpmessaging_ui_pulse.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/Users/gperez/.android/build-cache/9171d4dbe805b02733e9938fc68885ffc49fe62f/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/Users/gperez/.android/build-cache/9171d4dbe805b02733e9938fc68885ffc49fe62f/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/gperez/.android/build-cache/ef1b13d4ecca150e83081e7b09d011e8b637f521/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/release/anim/lpmessaging_ui_slide_in.xml",
+        "source": "/Users/gperez/.android/build-cache/9e318ff3faca6c2e65d8ccfd5d81f0991534503b/output/res/anim/lpmessaging_ui_slide_in.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/gperez/.android/build-cache/ef1b13d4ecca150e83081e7b09d011e8b637f521/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/gperez/.android/build-cache/ef1b13d4ecca150e83081e7b09d011e8b637f521/output/res/anim/abc_slide_in_top.xml"
+    }
+]

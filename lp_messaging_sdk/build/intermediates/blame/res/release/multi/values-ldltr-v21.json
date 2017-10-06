@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/gperez/Documents/MobileDevelopment/GabrielJaramillo/AndroidDev/AndroidSDKCodeBase/lp_messaging_sdk/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/Users/gperez/.android/build-cache/ef1b13d4ecca150e83081e7b09d011e8b637f521/output/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]

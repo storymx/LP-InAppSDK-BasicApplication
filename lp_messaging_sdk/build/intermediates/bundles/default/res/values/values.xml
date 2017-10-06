@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gabriel SDK</string>
+    <string name="lp_end_conversation_first">Please resolve the conversation first.</string>
+</resources>
